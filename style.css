@@ -1,0 +1,70 @@
+html {
+  font-size: 14px;
+  font-family: "Story Script", sans-serif;
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/049/341/601/small_2x/light-blue-gray-and-white-flat-marble-pattern-smooth-marble-wallpaper-photo.jpeg"); /* white marble texture */
+  background-size: cover; /* to fill the screen */
+  background-position: center; /* center the image */
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+body {
+  font-family: "Times New Roman", Helvetica, sans-serif;
+  font-size: 18px;
+  margin: 20px;
+  padding: 5%;
+}
+
+h1 {
+  color: navy;
+  font-size: 2em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center; /*I always think that names should be centered.  */
+  border-bottom: 1px solid #375e97;
+  margin-top: 20px;
+}
+
+h2 {
+  color: black;
+  font-size: 1em;
+}
+
+.job-title {
+  color: black;
+  font-weight: bold;
+}
+
+.blocks {
+  width: 75%;
+  margin: 20px auto;
+  text-align: left;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  display: block;
+}
+
+a:link,
+a:visited {
+  color: rgb(3, 25, 84);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.image-row {
+  display: flex;
+  justify-content: space-evenly; /* spaces images evenly in the row */
+  align-items: center; /* vertically centers them */
+  padding: 10px;
+}
+
+.image-row img {
+  max-width: 100%;
+  height: auto;
+  padding: 5px;
+}
