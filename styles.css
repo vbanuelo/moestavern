@@ -1,7 +1,7 @@
 html {
   font-size: 14px;
   font-family: "Story Script", sans-serif;
-  background-image: url(images/moes_tavern.png); /* white marble texture */
+  background-image: url(images/moes_tavern.png); /* Chose a background that shows Moe's Tavern */
   background-size: cover; /* to fill the screen */
   background-position: center; /* center the image */
   background-repeat: repeat;
@@ -13,7 +13,7 @@ body {
   font-size: 18px;
   margin: 20px;
   padding: 5%;
-  background-color: aqua;
+  background-color: aqua; /*so you could see the text */
 }
 
 h1 {
