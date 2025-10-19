@@ -1,7 +1,7 @@
 html {
   font-size: 14px;
   font-family: "Story Script", sans-serif;
-  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/049/341/601/small_2x/light-blue-gray-and-white-flat-marble-pattern-smooth-marble-wallpaper-photo.jpeg"); /* white marble texture */
+  background-image: url(images/moes_tavern.png); /* white marble texture */
   background-size: cover; /* to fill the screen */
   background-position: center; /* center the image */
   background-repeat: repeat;
@@ -13,6 +13,7 @@ body {
   font-size: 18px;
   margin: 20px;
   padding: 5%;
+  background-color: aqua;
 }
 
 h1 {
