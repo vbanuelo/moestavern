@@ -73,7 +73,7 @@ h2 {
   font-size: 1.6rem;
   margin-bottom: 15px;
   color: #ff1744;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 3px rgba(77, 255, 106, 0.5);
 }
 
 .card p {
@@ -84,7 +84,7 @@ h2 {
 
 a:link,
 a:visited {
-  color: rgb(3, 25, 84);
+  color: rgb(77,255,106);
 }
 
 a:hover {
