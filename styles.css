@@ -13,7 +13,7 @@ body {
   font-size: 18px;
   margin: 20px;
   padding: 5%;
-  background-color: aqua; /*so you could see the text */
+  background-color: aqua, 30%; /*so you could see the text */
 }
 
 h1 {
