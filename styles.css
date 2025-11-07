@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: navy;
+  color: white;
   font-size: 2em;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center; /*I always think that names should be centered.  */
@@ -26,7 +26,7 @@ h1 {
 }
 
 h2 {
-  color: black;
+  color: white;
   font-size: 1em;
 }
 
