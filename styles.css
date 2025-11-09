@@ -59,11 +59,11 @@ h2 {
 }
 
 .card {
-  background: rgba(255, 23, 68, 0.25);
+  background: rgba(135, 250, 90, 0.25);
   color: white;
   padding: 30px;
   border-radius: 12px;
-  border: 1px solid rgba(255, 23, 68, 0.12);
+  border: 1px solid rgba(135, 250, 90, 0.12);
   transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
 }
 
