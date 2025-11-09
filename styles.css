@@ -20,7 +20,7 @@ body {
 
 h1 {
   color: white;
-  font-size: 2em;
+  font-size: 3em;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center; /*I always think that names should be centered.  */
   border-bottom: 1px solid #375e97;
@@ -29,7 +29,7 @@ h1 {
 
 h2 {
   color: white;
-  font-size: 1em;
+  font-size: 2em;
 }
 
 .job-title {
@@ -47,7 +47,7 @@ h2 {
   padding: 15px;
   border: 1px solid #ddd;
   border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
   display: block;
 }
 /* Make grid more flexible on small screens */
@@ -59,7 +59,7 @@ h2 {
 }
 
 .card {
-  background: rgba(255, 23, 68, 0.06);
+  background: rgba(255, 23, 68, 0.25);
   color: white;
   padding: 30px;
   border-radius: 12px;
