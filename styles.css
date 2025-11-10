@@ -118,6 +118,11 @@ a:hover {
   border-radius: 8px;
   cursor: pointer;
 }
+#playButton img {
+  width:80px;
+  object-fit:contain;
+
+}
 
 #playButton:hover {
   color: black;
