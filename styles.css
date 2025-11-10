@@ -122,4 +122,5 @@ a:hover {
 #playButton:hover {
   color: black;
   background-color: #ff1744;
+  transform: scale(1.5);
 }
