@@ -120,12 +120,11 @@ a:hover {
 }
 #playButton img {
   width:80px;
-  object-fit:contain;
 
 }
 
 #playButton:hover {
   color: black;
   background-color: #ff1744;
-  transform: scale(1.2);
+  transform: scale(1.05);
 }
