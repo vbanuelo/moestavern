@@ -119,8 +119,10 @@ a:hover {
   cursor: pointer;
 }
 #playButton img {
-  width:80px;
-
+  width: 80px;  
+  height: 80px;
+  object-fit: contain;
+  transition: transform 0.2s ease;
 }
 
 #playButton:hover {
