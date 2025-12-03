@@ -108,3 +108,25 @@ a:hover {
   height: auto;
   padding: 5px;
 }
+
+#playButton {
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: rgba(183, 250, 90, 0.5);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+#playButton img {
+  width: 40px;  
+  height: 40px;
+  object-fit: contain;
+  transition: transform 0.2s ease;
+}
+
+#playButton:hover {
+  color: black;
+  background-color: #ff1744;
+  transform: scale(1.05);
+}
