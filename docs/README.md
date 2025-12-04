@@ -25,3 +25,5 @@ The Index page is the intro to the website. The page has been developed with The
     -This page is dedicated to all those that have wronged Moe in some way.
     - Although Moe wants to restrict Homer at all times, other than Barney, Homer is Moe's best customer. One could say Homer is his best friend.
     -This number of entries will increase as Moe decides who he will no longer allow in his tavern.
+
+Formatting ideas for this markdown file pulled from markdownguide.org.
