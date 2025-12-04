@@ -15,7 +15,7 @@ body {
   font-size: 20px;
   margin: 20px;
   padding: 5%;
-  background-color: rgba(4, 170, 109, 0.5) /*so you could see the text */
+  background-color: rgba(4, 170, 109, 0.5); /*so you could see the text */
 }
 
 h1 {
@@ -71,7 +71,7 @@ h2 {
   transform: translateY(-5px);
   box-shadow: 0 15px 30px rgba(255, 23, 68, 0.75);
   background: rgba(43, 255, 61, 0.75);
-  color: black!important;
+  color: black !important;
 }
 
 .card h2 {
@@ -89,11 +89,18 @@ h2 {
 
 a:link,
 a:visited {
-  color: rgb(77,255,106);
+  text-emphasis-style: inherit;
+  text-shadow: #375e97;
+  background: rgba(135, 250, 90, 0.5);
+  color: rgb(235, 241, 236);
 }
 
 a:hover {
   text-decoration: none;
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(255, 23, 68, 0.75);
+  background: rgba(43, 255, 61, 0.75);
+  color: black !important;
 }
 
 .image-row {
@@ -119,7 +126,7 @@ a:hover {
   cursor: pointer;
 }
 #playButton img {
-  width: 40px;  
+  width: 40px;
   height: 40px;
   object-fit: contain;
   transition: transform 0.2s ease;
