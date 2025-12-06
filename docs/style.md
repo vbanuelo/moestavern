@@ -31,8 +31,16 @@ Moe's Tavern is neon and dirty, but full of character. Our color selections inte
 
 ## Fonts and Typography
 
+Our site is styled using Times New Roman, as we discussed other options and came to the conclusion that Moe would likely use what's widely considered the "default" font for his website.
+
 ## Logo Usage
+
+All logos and likenesses are property of the Walt Disney Company. When possible, we have used screenshots from episodes of the show and edited them to the appropriate sizes and resolutions for the **Menu** and **Not Allowed!** pages.
 
 ## Tone & Voice Guidelines
 
+Again, as the narrative of the site is that this has been created by the character depicted on the homepage, pages should be written from the perspective of the character doing his best to be professional \(but occasionally failing\). For example of his literal voice, click on the red telephone at the bottom of the **Not Allowed!** page for recordings. The occasional \("intentional"\) typo is encouraged.
+
 ## Accessibility Rules
+
+For accessibility, see the above style guide for color changes on hovering. Further emphasizing changes can be found in the live CSS file. Keep in mind that the inaccessibility should be narrative only: the hovering should ameliorate the hideousness that the unskilled-in-graphic-design character has "chosen". As there is a lot of repetition of imagery and characters, be very detailed with your alt text.
