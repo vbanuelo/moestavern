@@ -10,23 +10,23 @@ Moe's Tavern is neon and dirty, but full of character. Our color selections inte
 -Body background color: rgba(4, 170, 109, 0.5)<br>
 -Header border color: #375e97<br>
 -Blocks scheme:<br>
-    -Text color: #ffffff<br>
-    -Background color: #f9f9f9<br>
-    -Dropshadow: 0 2px 5px rgba(0, 0, 0, 0.75)<br>
-    -See live CSS for sizing<br>
+  -Text color: #ffffff<br>
+  -Background color: #f9f9f9<br>
+  -Dropshadow: 0 2px 5px rgba(0, 0, 0, 0.75)<br>
+  -See live CSS for sizing<br>
 -Card scheme:<br>
-    -Text color: #ffffff<br>
-    -Background color: rgba(135, 250, 90, 0.5)<br>
-    -Border: 1px rgba(135, 250, 90, 0.5)<br>
+  -Text color: #ffffff<br>
+  -Background color: rgba(135, 250, 90, 0.5)<br>
+  -Border: 1px rgba(135, 250, 90, 0.5)<br>
 -Hover<br>
-    -See CSS for dimensions<br>
-    -Dropshadow: 0 15px 30px rgba(255, 23, 68, 0.75)<br>
-    -Background: rgba(43, 255, 61, 0.75)<br>
-    -Text color \(on hover\): rgb(0, 0, 0)<br>
+  -See CSS for dimensions<br>
+  -Dropshadow: 0 15px 30px rgba(255, 23, 68, 0.75)<br>
+  -Background: rgba(43, 255, 61, 0.75)<br>
+  -Text color \(on hover\): rgb(0, 0, 0)<br>
 -Visited links<br>
-    -Shadow: #375e97<br>
-    -Background: rgba(135, 250, 90, 0.5)<br>
-    -Color: rgb(235, 241, 236)<br>
+  -Shadow: #375e97<br>
+  -Background: rgba(135, 250, 90, 0.5)<br>
+  -Color: rgb(235, 241, 236)<br>
 
 ## Fonts and Typography
 
